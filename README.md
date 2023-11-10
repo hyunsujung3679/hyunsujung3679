@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 <!--
 **hyunsujung3679/hyunsujung3679** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
