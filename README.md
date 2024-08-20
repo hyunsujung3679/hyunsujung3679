@@ -11,9 +11,9 @@
 <p>근무 기간 : 2021.12 ~ 2024.05</p>
 <p>고객사 내 프로젝트 개발 및 운영 업무 담당</p>
 <ul>
-  <li>W쇼핑 제휴 입점 프로젝트</li>
-  <li>신세계TV라이브쇼핑 11번가 입점 상품 동기화 개선 프로젝트</li>
-  <li>SK스토아 TV API팀 운영 업무</li>
+  <li><a href="https://hsjung.gitbook.io/pr/undefined/project/w">W쇼핑 제휴 입점 프로젝트</a></li>
+  <li><a href="https://hsjung.gitbook.io/pr/undefined/project/tv-11">신세계TV라이브쇼핑 11번가 입점 상품 동기화 개선 프로젝트</li>
+  <li><a href="https://hsjung.gitbook.io/pr/undefined/project/sk">SK스토아 TV API팀 운영 업무</li>
 </ul>
 
 <!-- Skills -->
