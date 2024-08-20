@@ -1,8 +1,10 @@
+<!-- About Me -->
 <H1>:man_technologist: About Me</H1>
 <p><strong>대체 불가능한 개발자</strong>가 되고 싶은 '정현수' 입니다.</p>
 <p>Java와 Spring 기반의 3년차 웹 개발자로, 대형 커머스 기업들의 프로젝트와 운영 업무를 통해 실무 경험을 쌓았습니다. 개발 과정에서 자주 쓰는 코드만 쓰는 것을 느꼈고, 이를 극복하기 위해 평소에도 공부하는 개발자가 되기 위해 노력하고 있습니다.</p>
 <p>최근에는 인공지능(AI-X) 프로젝트 부트캠프에 참여하여 최신 기술 트렌드를 습득했습니다. 이를 통해 기존의 웹 개발 지식을 AI 분야로 확장하고 있습니다.</p>
 
+<!-- Experience -->
 <H1>:briefcase: Experience</H1>  
 <H3>(주)커머스웨어</H3> 
 <p><strong>홈쇼핑 전문 솔루션 및 이커머스 솔루션 보유 기업</strong></p>
@@ -14,15 +16,49 @@
   <li>SK스토아 TV API팀 운영 업무</li>
 </ul>
 
-<H1>:hammer_and_wrench: Skil</H1>
+<!-- Skills -->
+<H1>:hammer_and_wrench: Skills</H1>
 <p><strong>Back-End</strong></p>
-<kbd>Java</kbd> <kbd>Python</kbd> <kbd>Spring</kbd> <kbd>Spring Boot</kbd> <kbd>Spring Security</kbd> <kbd>Fast API</kbd> <kbd>LangChain</kbd> <kbd>MyBatis</kbd> <kbd>Jpa</kbd> <kbd>Gradle</kbd> <kbd>Maven</kbd> <kbd>Eclipse</kbd> <kbd>STS</kbd> <kbd>Intellij</kbd><br/>
-<br/>
+<kbd>Java</kbd> <kbd>Spring</kbd> <kbd>Spring Boot</kbd> <kbd>Spring Batch</kbd> <kbd>Python</kbd> <kbd>LangChain</kbd> <kbd>MyBatis</kbd> <kbd>JPA</kbd>
+<br/><br/>
 <p><strong>Front-End</strong></p>
-<kbd>JavaScript</kbd> <kbd>Ext.JS</kbd> <kbd>React.JS</kbd> <kbd>Thymeleaf</kbd> <kbd>JSP</kbd> <kbd>VS Code</kbd><br/>
-<br/>
+<kbd>JavaScript</kbd> <kbd>Ext.JS</kbd> <kbd>React.JS</kbd> <kbd>Thymeleaf</kbd> <kbd>JSP</kbd>
+<br/><br/>
 <p><strong>DB</strong></p>
-<kbd>JavaScript</kbd> <kbd>Ext.JS</kbd> <kbd>React.JS</kbd> <kbd>Thymeleaf</kbd> <kbd>JSP</kbd> <kbd>VS Code</kbd>
+<kbd>Oracle</kbd> <kbd>MySQL</kbd>
+<br/><br/>
+<p><strong>Communication</strong></p>
+<kbd>Notion</kbd> <kbd>Figma</kbd> <kbd>Redmine</kbd> <kbd>Slack</kbd>
+<br/><br/>
+<p><strong>Version Controller</strong></p>
+<kbd>GitHub</kbd> <kbd>GitLab</kbd> <kbd>GitBook</kbd> <kbd>SVN</kbd> <kbd>Sourcetree</kbd>
+<br/><br/>
+<p><strong>Deployment</strong></p>
+<kbd>Jenkins</kbd> <kbd>AWS</kbd> <kbd>Docker</kbd>
+
+<!-- Education -->
+<H1>:mortar_board: Education</H1>
+<H3>인공지능(AI-X) 프로젝트 부트캠프</H3>
+<p>교육 기간 : 2024.07.04 ~ 2024.08.28</p>
+<p>교육 기관 : 하이미디어아카데미</p>
+<p>프로젝트 : </p>
+<ul>
+  <li>외국인 한국살이 도우미 챗봇 서비스 개발</li>
+  <li>이미지와 음성을 활용한 토익스피킹 도우미 시스템 개발</li>
+</ul>
+<br/>
+<H3>자바 기반 안드로이드 앱 개발</H3>
+<p>교육 기간 : 2021.05.06 ~ 2021.10.25</p>
+<p>교육 기관 : 더조은컴퓨터아카데미</p>
+<p>프로젝트 : </p>
+<ul>
+  <li>CRM 프로그램 개발</li>
+  <li>개발자 특화 취업포털사이트 개발</li>
+</ul>
+<br/>
+<H3>자바 프로그래밍 기초</H3>
+<p>교육 기간 : 2021.02.01 ~ 2021.03.12</p>
+<p>교육 기관 : 더조은컴퓨터아카데미</p>
 
 
 
