@@ -11,9 +11,9 @@
 <p>근무 기간 : 2021.12 ~ 2024.05</p>
 <p>고객사 내 프로젝트 개발 및 운영 업무 담당</p>
 <ul>
-  <li><a href="https://hsjung.gitbook.io/pr/undefined/project/commerceware/w">W쇼핑 제휴 입점 프로젝트</a></li>
-  <li><a href="https://hsjung.gitbook.io/pr/undefined/project/commerceware/tv-11">신세계TV라이브쇼핑 11번가 입점 상품 동기화 개선 프로젝트</a></li>
-  <li><a href="https://hsjung.gitbook.io/pr/undefined/project/commerceware/sk">SK스토아 TV API팀 운영 업무</a></li>
+  <li><a href="https://hsjung.gitbook.io/pr/undefined/project/cw/w">W쇼핑 제휴 입점 프로젝트</a></li>
+  <li><a href="https://hsjung.gitbook.io/pr/undefined/project/cw/tv-11">신세계TV라이브쇼핑 11번가 입점 상품 동기화 개선 프로젝트</a></li>
+  <li><a href="https://hsjung.gitbook.io/pr/undefined/project/cw/sk">SK스토아 TV API팀 운영 업무</a></li>
 </ul>
 
 <!-- Skills -->
@@ -43,8 +43,8 @@
 <p>교육 기관 : 하이미디어아카데미</p>
 <p>프로젝트 : </p>
 <ul>
-  <li><a href="">외국인 한국살이 도우미 챗봇</a></li>
-  <li><a href="">토익 스피킹 AI 학습 도우미</a></li>
+  <li><a href="https://hsjung.gitbook.io/pr/undefined/project/hi/undefined">외국인 한국살이 도우미 챗봇</a></li>
+  <li><a href="https://hsjung.gitbook.io/pr/undefined/project/hi/ai">토익 스피킹 AI 학습 도우미</a></li>
 </ul>
 <br/>
 <H3>자바 기반 안드로이드 앱 개발</H3>
@@ -52,8 +52,8 @@
 <p>교육 기관 : 더조은컴퓨터아카데미</p>
 <p>프로젝트 : </p>
 <ul>
-  <li><a href="https://hsjung.gitbook.io/pr/undefined/project/tj-academy/crm">CRM 프로그램</a></li>
-  <li><a href="https://hsjung.gitbook.io/pr/undefined/project/tj-academy/undefined">개발자 특화 취업포털사이트</a></li>
+  <li><a href="https://hsjung.gitbook.io/pr/undefined/project/tj/crm">CRM 프로그램</a></li>
+  <li><a href="https://hsjung.gitbook.io/pr/undefined/project/tj/undefined">개발자 특화 취업포털사이트</a></li>
 </ul>
 <br/>
 <H3>자바 프로그래밍 기초</H3>
