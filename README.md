@@ -1,4 +1,4 @@
-<!-- About Me -->
+![image](https://github.com/user-attachments/assets/b7ea2bc5-6ce5-47d5-bb54-7c2e23fd61bb)<!-- About Me -->
 <H1>:man_technologist: About Me</H1>
 <p><strong>대체 불가능한 개발자</strong>가 되고 싶은 '정현수' 입니다.</p>
 <p>Java와 Spring 기반의 3년차 웹 개발자로, 대형 커머스 기업들의 프로젝트와 운영 업무를 통해 실무 경험을 쌓았습니다. 개발 과정에서 자주 쓰는 코드만 쓰는 것을 느꼈고, 이를 극복하기 위해 평소에도 공부하는 개발자가 되기 위해 노력하고 있습니다.</p>
@@ -60,12 +60,17 @@
 <p>교육 기간 : 2021.02.01 ~ 2021.03.12</p>
 <p>교육 기관 : 더조은컴퓨터아카데미</p>
 
-<!-- Certificate -->
-<H1>:scroll: Certificate</H1>
+<!-- License -->
+<H1>:scroll: License</H1>
 <H3>정보처리기사</H3>
 <p>취득일자 : 2022.09.02</p>
 <H3>컴퓨터활용능력 2급</H3>
 <p>취득일자 : 2019.02.01</p>
+
+<!-- Archive -->
+<H1>:package: Archive</H1>
+<p><strong>GitBook</strong> : https://hsjung.gitbook.io</p>
+<p><strong>Blog</strong> : https://hyunsus.tistory.com</p>
 
 
 
