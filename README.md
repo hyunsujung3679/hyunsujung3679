@@ -18,6 +18,7 @@
 
 <!-- Skills -->
 <H1>:hammer_and_wrench: Skills</H1>
+![Skills](skills.png)
 <p><strong>Back-End</strong></p>
 <kbd>Java</kbd> <kbd>Spring</kbd> <kbd>Spring Boot</kbd> <kbd>Python</kbd> <kbd>LangChain</kbd> <kbd>MyBatis</kbd> <kbd>JPA</kbd>
 <br/><br/>
