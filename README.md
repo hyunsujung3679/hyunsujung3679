@@ -18,24 +18,7 @@
 
 <!-- Skills -->
 <H1>:hammer_and_wrench: Skills</H1>
-![Skills](./skills.png)
-<p><strong>Back-End</strong></p>
-<kbd>Java</kbd> <kbd>Spring</kbd> <kbd>Spring Boot</kbd> <kbd>Python</kbd> <kbd>LangChain</kbd> <kbd>MyBatis</kbd> <kbd>JPA</kbd>
-<br/><br/>
-<p><strong>Front-End</strong></p>
-<kbd>JavaScript</kbd> <kbd>Ext.JS</kbd> <kbd>Thymeleaf</kbd> <kbd>JSP</kbd>
-<br/><br/>
-<p><strong>DB</strong></p>
-<kbd>Oracle</kbd> <kbd>MySQL</kbd>
-<br/><br/>
-<p><strong>Communication</strong></p>
-<kbd>Notion</kbd> <kbd>Figma</kbd> <kbd>Redmine</kbd> <kbd>Slack</kbd>
-<br/><br/>
-<p><strong>Version Controller</strong></p>
-<kbd>GitHub</kbd> <kbd>GitLab</kbd> <kbd>GitBook</kbd> <kbd>SVN</kbd> <kbd>Sourcetree</kbd>
-<br/><br/>
-<p><strong>Deployment</strong></p>
-<kbd>Jenkins</kbd> <kbd>AWS</kbd> <kbd>Docker</kbd>
+<img src="./skills.png" alt="Skills">
 
 <!-- Education -->
 <H1>:mortar_board: Education</H1>
