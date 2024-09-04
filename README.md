@@ -19,10 +19,10 @@
 <!-- Skills -->
 <H1>:hammer_and_wrench: Skills</H1>
 <p><strong>Back-End</strong></p>
-<kbd>Java</kbd> <kbd>Spring</kbd> <kbd>Spring Boot</kbd> <kbd>Spring Batch</kbd> <kbd>Python</kbd> <kbd>LangChain</kbd> <kbd>MyBatis</kbd> <kbd>JPA</kbd>
+<kbd>Java</kbd> <kbd>Spring</kbd> <kbd>Spring Boot</kbd> <kbd>Python</kbd> <kbd>LangChain</kbd> <kbd>MyBatis</kbd> <kbd>JPA</kbd>
 <br/><br/>
 <p><strong>Front-End</strong></p>
-<kbd>JavaScript</kbd> <kbd>Ext.JS</kbd> <kbd>React.JS</kbd> <kbd>Thymeleaf</kbd> <kbd>JSP</kbd>
+<kbd>JavaScript</kbd> <kbd>Ext.JS</kbd> <kbd>Thymeleaf</kbd> <kbd>JSP</kbd>
 <br/><br/>
 <p><strong>DB</strong></p>
 <kbd>Oracle</kbd> <kbd>MySQL</kbd>
