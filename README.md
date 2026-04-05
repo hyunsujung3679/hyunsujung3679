@@ -1,8 +1,11 @@
 <!-- About Me -->
 <H1>:man_technologist: About Me</H1>
-<p><strong>대체 불가능한 개발자</strong>가 되고 싶은 '정현수' 입니다.</p>
-<p>Java와 Spring 기반의 3년차 웹 개발자로, 대형 커머스 기업들의 프로젝트와 운영 업무를 통해 실무 경험을 쌓았습니다. 개발 과정에서 자주 쓰는 코드만 쓰는 것을 느꼈고, 이를 극복하기 위해 평소에도 공부하는 개발자가 되기 위해 노력하고 있습니다.</p>
-<p>최근에는 인공지능(AI-X) 프로젝트 부트캠프에 참여하여 최신 기술 트렌드를 습득했습니다. 이를 통해 기존의 웹 개발 지식을 AI 분야로 확장하고 있습니다.</p>
+<ul>
+  <li><strong>Server Deveploper</strong></li>
+  <li><strong>1994.09.12(남)</strong></li>
+  <li><strong>4년차 (약 3년 10개월)</strong></li>
+  <li><strong>010-2728-7526</strong></li>
+</ul>
 
 <br/>
 
@@ -14,6 +17,16 @@
 
 <!-- Career -->
 <H1>:briefcase: Career</H1>  
+<H3>(주)디지털팜</H3>
+<p><strong>디지털 치료기기(DTx)와 의료기관 협력 기반 헬스케어 플랫폼 기업</strong></p>
+<p>근무 기간 : 2024.11 ~ 재직중 (1년 4개월)</p>
+<p>디지털 치료기기(DTx) 개발 및 유지보수 운영 업무</p>
+<ul>
+  <li><a href="https://hsjung.gitbook.io/pr/undefined/project/cw/w"사내 개발 환경 서버 구</a></li>
+  <li><a href="https://hsjung.gitbook.io/pr/undefined/project/cw/tv-11">신세계라이브쇼핑 11번가 입점 상품 동기화 개선 프로젝트</a></li>
+  <li><a href="https://hsjung.gitbook.io/pr/undefined/project/cw/sk">SK스토아 TV API팀 운영</a></li>
+</ul>
+
 <H3>(주)커머스웨어</H3> 
 <p><strong>홈쇼핑 전문 솔루션 및 이커머스 솔루션 보유 기업</strong></p>
 <p>근무 기간 : 2021.12 ~ 2024.05 (2년 6개월)</p>
