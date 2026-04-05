@@ -22,9 +22,19 @@
 <p>근무 기간 : 2024.11 ~ 재직중 (1년 4개월)</p>
 <p>디지털 치료기기(DTx) 개발 및 유지보수 운영 업무</p>
 <ul>
-  <li><a href="https://hsjung.gitbook.io/pr/undefined/project/cw/w"사내 개발 환경 서버 구</a></li>
-  <li><a href="https://hsjung.gitbook.io/pr/undefined/project/cw/tv-11">신세계라이브쇼핑 11번가 입점 상품 동기화 개선 프로젝트</a></li>
-  <li><a href="https://hsjung.gitbook.io/pr/undefined/project/cw/sk">SK스토아 TV API팀 운영</a></li>
+  <li><a href="https://buly.kr/3CPjOg4">사내 개발 환경 서버 구축</a></li>
+  <li><a href="https://buly.kr/4xZJCt7">GitLab 기반 사내 CI/CD 설계 및 구축</a></li>
+  <li><a href="https://buly.kr/GvopuVz">표준 템플릿 프로젝트 개발</a></li>
+  <li><a href="https://buly.kr/Awh4Yn7">통합 모니터링 시스템 구축</a></li>
+  <li><a href="https://buly.kr/9XN4VDO">노인성 난청 치료 게임 효돌이 연동</a></li>
+  <li><a href="https://buly.kr/4xZJD5X">조음음운 장애 치료 APP 개발</a></li>
+</ul>
+<p>개발 환경</p>
+<ul>
+  <li>Language : <kbd>Java</kbd></li>
+  <li>BackEnd : <kbd>Spring</kbd> <kbd>MyBatis</kbd> <kbd>JPA</kbd></li>
+  <li>Database : <kbd>PostgrSQL</kbd></li>
+  <p>※ Net.js는 Ext.js를 기반으로 만든 커머스웨어가 특허낸 사내 프레임워크이다.</p>
 </ul>
 
 <H3>(주)커머스웨어</H3> 
