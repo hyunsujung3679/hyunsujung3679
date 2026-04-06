@@ -1,10 +1,10 @@
 <!-- About Me -->
 <H1>:man_technologist: About Me</H1>
 <ul>
-  <li><strong>Server Deveploper</strong></li>
-  <li><strong>1994.09.12(남)</strong></li>
-  <li><strong>4년차 (약 3년 10개월)</strong></li>
-  <li><strong>010-2728-7526</strong></li>
+  <li>Server Deveploper</li>
+  <li>1994.09.12(남)</li>
+  <li>4년차 (약 3년 10개월)</li>
+  <li>010-2728-7526</li>
 </ul>
 
 <br/>
