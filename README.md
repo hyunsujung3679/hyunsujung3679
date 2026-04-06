@@ -76,8 +76,8 @@
 <p>교육 기관 : 하이미디어아카데미</p>
 <p>프로젝트 : </p>
 <ul>
-  <li><a href="https://hsjung.gitbook.io/pr/undefined/project/hi/undefined">외국인 한국살이 도우미 챗봇</a></li>
-  <li><a href="https://hsjung.gitbook.io/pr/undefined/project/hi/ai">토익 스피킹 AI 학습 도우미</a></li>
+  <li><a href="https://buly.kr/8TsWpOQ">외국인 한국살이 도우미 챗봇</a></li>
+  <li><a href="https://buly.kr/Awh8Yoz">토익 스피킹 AI 학습 도우미</a></li>
 </ul>
 <br/>
 <H3>자바 기반 안드로이드 앱 개발</H3>
@@ -114,5 +114,4 @@
 
 <!-- Archive -->
 <H1>:package: Archive</H1>
-<p><strong>GitBook</strong> : https://hsjung.gitbook.io</p>
-<p><strong>Blog</strong> : https://hyunsus.tistory.com</p>
+<p><strong>Notion</strong> : https://buly.kr/6iit0v9</p>
