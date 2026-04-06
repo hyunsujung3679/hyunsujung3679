@@ -3,6 +3,7 @@
 <ul>
   <li>Server Deveploper</li>
   <li>1994.09.12(남)</li>
+  <li>경기도 하남시</li>
   <li>4년차 (약 3년 10개월)</li>
   <li>010-2728-7526</li>
 </ul>
