@@ -11,7 +11,15 @@
 
 <!-- Skills -->
 <H1>:hammer_and_wrench: Skills</H1>
-<img src="./skills.png" alt="Skills">
+<ul>
+  <li>Language : <kbd>Java</kbd></li>
+  <li>BackEnd : <kbd>Spring</kbd> <kbd>MyBatis</kbd> <kbd>JPA</kbd></li>
+  <li>frontEnd : <kbd>JavaScript</kbd> <kbd>Thymeleaf</kbd> <kbd>JSP</kbd></li>
+  <li>Database : <kbd>Oracle</kbd> <kbd>MySQL</kbd> <kbd>PostgrSQL</kbd> <kbd>Redis</kbd></li>
+  <li>Infra : <kbd>AWS</kbd> <kbd>Docker</kbd> <kbd>Jenkins</kbd></li>
+  <li>Monitoring : <kbd>OTel Collector</kbd> <kbd>Prometheus</kbd> <kbd>Grafana</kbd> <kbd>Loki</kbd> <kbd>Tempo</kbd></li>
+  <li>Collaboration : <kbd>GitHub</kbd> <kbd>GitLab</kbd> <kbd>GitBook</kbd> <kbd>SVN</kbd> <kbd>Sourcetree</kbd> <kbd>Notion</kbd> <kbd>Figma</kbd> <kbd>Redmine</kbd> <kbd>Slack</kbd></li>
+</ul>
 
 <br/>
 
@@ -34,7 +42,9 @@
   <li>Language : <kbd>Java</kbd></li>
   <li>BackEnd : <kbd>Spring</kbd> <kbd>MyBatis</kbd> <kbd>JPA</kbd></li>
   <li>Database : <kbd>PostgrSQL</kbd></li>
-  <p>※ Net.js는 Ext.js를 기반으로 만든 커머스웨어가 특허낸 사내 프레임워크이다.</p>
+  <li>Infra : <kbd>AWS</kbd> <kbd>Docker</kbd></li>
+  <li>Monitoring : <kbd>OTel Collector</kbd> <kbd>Prometheus</kbd> <kbd>Grafana</kbd> <kbd>Loki</kbd> <kbd>Tempo</kbd></li>
+  <li>Collaboration : <kbd>GitHub</kbd> <kbd>GitLab</kbd> <kbd>Sourcetree</kbd> <kbd>Notion</kbd> <kbd>Figma</kbd></li>
 </ul>
 
 <H3>(주)커머스웨어</H3> 
@@ -42,14 +52,18 @@
 <p>근무 기간 : 2021.12 ~ 2024.05 (2년 6개월)</p>
 <p>고객사 내 프로젝트 개발 및 운영 업무 담당</p>
 <ul>
-  <li><a href="https://hsjung.gitbook.io/pr/undefined/project/cw/w">W쇼핑 제휴 입점 프로젝트</a></li>
-  <li><a href="https://hsjung.gitbook.io/pr/undefined/project/cw/tv-11">신세계라이브쇼핑 11번가 입점 상품 동기화 개선 프로젝트</a></li>
-  <li><a href="https://hsjung.gitbook.io/pr/undefined/project/cw/sk">SK스토아 TV API팀 운영</a></li>
+  <li><a href="https://buly.kr/9BXWBKu">W쇼핑 제휴 입점 프로젝트</a></li>
+  <li><a href="https://buly.kr/AlmL0fr">신세계라이브쇼핑 11번가 입점 상품 동기화 개선 프로젝트</a></li>
+  <li><a href="https://buly.kr/3u4mkql">SK스토아 TV API팀 운영</a></li>
 </ul>
 <p>개발 환경</p>
 <ul>
-  <li>BackEnd : <kbd>Java</kbd> <kbd>Spring</kbd> <kbd>MyBatis</kbd> <kbd>Oracle</kbd></li>
+  <li>Language : <kbd>Java</kbd></li>
+  <li>BackEnd : <kbd>Spring</kbd> <kbd>MyBatis</kbd></li>
   <li>frontEnd : <kbd>JavaScript</kbd> <kbd>Net.js</kbd> <kbd>Velocity</kbd></li>
+  <li>Database : <kbd>Oracle</kbd></li>
+  <li>Infra : <kbd>Jenkins</kbd></li>
+  <li>Collaboration : <kbd>GitLab</kbd> <kbd>SVN</kbd>  <kbd>Sourcetree</kbd> <kbd>SVN</kbd> <kbd>Redmine</kbd> <kbd>Slack</kbd></li>
   <p>※ Net.js는 Ext.js를 기반으로 만든 커머스웨어가 특허낸 사내 프레임워크이다.</p>
 </ul>
 
