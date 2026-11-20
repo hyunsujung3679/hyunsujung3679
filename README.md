@@ -47,7 +47,7 @@
   <li>Backend : <kbd>Spring Boot</kbd> <kbd>Spring Framework</kbd> <kbd>MyBatis</kbd> <kbd>JPA</kbd></li>
   <li>Database/Cache : <kbd>PostgrSQL</kbd> <kbd>Redis</kbd></li>
   <li>Infrastructure/CI/CD : <kbd>AWS(VPC, EC2, ALB, RDS)</kbd> <kbd>Docker</kbd> <kbd>GitLab CI/CD</kbd></li>
-  <li>Monitoring : <kbd>OTel Collector</kbd> <kbd>Prometheus</kbd> <kbd>Grafana</kbd> <kbd>Loki</kbd> <kbd>Tempo</kbd></li>
+  <li>Monitoring : <kbd>OpenTelemetry Collector</kbd> <kbd>Prometheus</kbd> <kbd>Grafana</kbd> <kbd>Loki</kbd> <kbd>Tempo</kbd></li>
   <li>Collaboration : <kbd>GitHub</kbd> <kbd>GitLab</kbd> <kbd>Notion</kbd> <kbd>Figma</kbd> <kbd>Sourcetree</kbd></li>
 </ul>
 
