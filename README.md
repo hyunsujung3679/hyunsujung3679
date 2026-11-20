@@ -31,6 +31,9 @@
 <p>근무 기간 : 2024.11 ~ 재직중 (2년)</p>
 <p>디지털 치료기기(DTx) 개발 및 유지보수 운영 업무</p>
 <ul>
+  <li><a href="https://buly.kr/90e6qeJ">난임 여성 우울증 치료 APP 개발</a></li>
+  <li><a href="https://buly.kr/4blBpKl">Apple 로그인 및 Nice 본인인증 연동</a></li>
+  <li><a href="https://buly.kr/BTSk5AW">Spick 치매 진단 서비스 연동</a></li>
   <li><a href="https://buly.kr/3CPjOg4">사내 개발 환경 서버 구축</a></li>
   <li><a href="https://buly.kr/4xZJCt7">GitLab 기반 사내 CI/CD 설계 및 구축</a></li>
   <li><a href="https://buly.kr/GvopuVz">표준 템플릿 프로젝트 개발</a></li>
