@@ -1,10 +1,10 @@
 <!-- About Me -->
 <H1>:man_technologist: About Me</H1>
 <ul>
-  <li>Backend Deveploper</li>
+  <li>Server Deveploper</li>
   <li>1994.09.12(남)</li>
   <li>경기도 하남시</li>
-  <li>4년차 (약 3년 10개월)</li>
+  <li>5년차 (약 4년 6개월)</li>
   <li>010-2728-7526</li>
   <li>hyunsujung3679@gmail.com</li>
 </ul>
@@ -15,12 +15,11 @@
 <H1>:hammer_and_wrench: Skills</H1>
 <ul>
   <li>Language : <kbd>Java</kbd></li>
-  <li>BackEnd : <kbd>Spring</kbd> <kbd>MyBatis</kbd> <kbd>JPA</kbd></li>
-  <li>frontEnd : <kbd>JavaScript</kbd> <kbd>Thymeleaf</kbd> <kbd>JSP</kbd></li>
-  <li>Database : <kbd>Oracle</kbd> <kbd>MySQL</kbd> <kbd>PostgrSQL</kbd> <kbd>Redis</kbd></li>
-  <li>Infra : <kbd>AWS</kbd> <kbd>Docker</kbd> <kbd>Jenkins</kbd></li>
-  <li>Monitoring : <kbd>OTel Collector</kbd> <kbd>Prometheus</kbd> <kbd>Grafana</kbd> <kbd>Loki</kbd> <kbd>Tempo</kbd></li>
-  <li>Collaboration : <kbd>GitHub</kbd> <kbd>GitLab</kbd> <kbd>GitBook</kbd> <kbd>SVN</kbd> <kbd>Sourcetree</kbd> <kbd>Notion</kbd> <kbd>Figma</kbd> <kbd>Redmine</kbd> <kbd>Slack</kbd></li>
+  <li>BackEnd : <kbd>Spring Boot</kbd> <kbd>Spring Framework</kbd> <kbd>MyBatis</kbd> <kbd>JPA</kbd></li>
+  <li>Database/Cache : <kbd>Oracle</kbd> <kbd>MySQL</kbd> <kbd>PostgrSQL</kbd> <kbd>Redis</kbd></li>
+  <li>Infrastructure/CI-CD : <kbd>AWS(VPC, EC2, ALB, RDS)</kbd> <kbd>Docker</kbd> <kbd>GitLab CI/CD</kbd></li>
+  <li>Monitoring : <kbd>OpenTelemetry Collector</kbd> <kbd>Prometheus</kbd> <kbd>Grafana</kbd> <kbd>Loki</kbd> <kbd>Tempo</kbd></li>
+  <li>Collaboration : <kbd>Git</kbd> <kbd>GitHub</kbd> <kbd>GitLab</kbd> <kbd>Notion</kbd> <kbd>Figma</kbd></li>
 </ul>
 
 <br/>
@@ -29,7 +28,7 @@
 <H1>:briefcase: Career</H1>  
 <H3>(주)디지털팜</H3>
 <p><strong>디지털 치료기기(DTx)와 의료기관 협력 기반 헬스케어 플랫폼 기업</strong></p>
-<p>근무 기간 : 2024.11 ~ 재직중 (1년 4개월)</p>
+<p>근무 기간 : 2024.11 ~ 재직중 (2년)</p>
 <p>디지털 치료기기(DTx) 개발 및 유지보수 운영 업무</p>
 <ul>
   <li><a href="https://buly.kr/3CPjOg4">사내 개발 환경 서버 구축</a></li>
@@ -43,10 +42,10 @@
 <ul>
   <li>Language : <kbd>Java</kbd></li>
   <li>BackEnd : <kbd>Spring</kbd> <kbd>MyBatis</kbd> <kbd>JPA</kbd></li>
-  <li>Database : <kbd>PostgrSQL</kbd></li>
-  <li>Infra : <kbd>AWS</kbd> <kbd>Docker</kbd></li>
+  <li>Database/Cache : <kbd>PostgrSQL</kbd></li> <kbd>Redis</kbd>
+  <li>Infrastructure/CI-CD : <kbd>AWS(VPC, EC2, ALB, RDS)</kbd> <kbd>Docker</kbd> <kbd>GitLab CI/CD</kbd></li>
   <li>Monitoring : <kbd>OTel Collector</kbd> <kbd>Prometheus</kbd> <kbd>Grafana</kbd> <kbd>Loki</kbd> <kbd>Tempo</kbd></li>
-  <li>Collaboration : <kbd>GitHub</kbd> <kbd>GitLab</kbd> <kbd>Sourcetree</kbd> <kbd>Notion</kbd> <kbd>Figma</kbd></li>
+  <li>Collaboration : <kbd>GitHub</kbd> <kbd>GitLab</kbd> <kbd>Notion</kbd> <kbd>Figma</kbd></li>
 </ul>
 
 <H3>(주)커머스웨어</H3> 
