@@ -17,9 +17,9 @@
   <li>Language : <kbd>Java</kbd></li>
   <li>BackEnd : <kbd>Spring Boot</kbd> <kbd>Spring Framework</kbd> <kbd>MyBatis</kbd> <kbd>JPA</kbd></li>
   <li>Database/Cache : <kbd>Oracle</kbd> <kbd>MySQL</kbd> <kbd>PostgrSQL</kbd> <kbd>Redis</kbd></li>
-  <li>Infrastructure/CI-CD : <kbd>AWS(VPC, EC2, ALB, RDS)</kbd> <kbd>Docker</kbd> <kbd>GitLab CI/CD</kbd></li>
+  <li>Infrastructure/CI/CD : <kbd>AWS(VPC, EC2, ALB, RDS)</kbd> <kbd>Docker</kbd> <kbd>GitLab CI/CD</kbd> <kbd>Jenkins</kbd></li>
   <li>Monitoring : <kbd>OpenTelemetry Collector</kbd> <kbd>Prometheus</kbd> <kbd>Grafana</kbd> <kbd>Loki</kbd> <kbd>Tempo</kbd></li>
-  <li>Collaboration : <kbd>Git</kbd> <kbd>GitHub</kbd> <kbd>GitLab</kbd> <kbd>Notion</kbd> <kbd>Figma</kbd></li>
+  <li>Collaboration : <kbd>GitHub</kbd> <kbd>GitLab</kbd> <kbd>Notion</kbd> <kbd>Figma</kbd> <kbd>Sourcetree</kbd> <kbd>SVN</kbd> <kbd>Redmine</kbd> <kbd>Slack</kbd></li>
 </ul>
 
 <br/>
@@ -41,11 +41,11 @@
 <p>개발 환경</p>
 <ul>
   <li>Language : <kbd>Java</kbd></li>
-  <li>BackEnd : <kbd>Spring</kbd> <kbd>MyBatis</kbd> <kbd>JPA</kbd></li>
-  <li>Database/Cache : <kbd>PostgrSQL</kbd></li> <kbd>Redis</kbd>
-  <li>Infrastructure/CI-CD : <kbd>AWS(VPC, EC2, ALB, RDS)</kbd> <kbd>Docker</kbd> <kbd>GitLab CI/CD</kbd></li>
+  <li>Backend : <kbd>Spring Boot</kbd> <kbd>Spring Framework</kbd> <kbd>MyBatis</kbd> <kbd>JPA</kbd></li>
+  <li>Database/Cache : <kbd>PostgrSQL</kbd> <kbd>Redis</kbd></li>
+  <li>Infrastructure/CI/CD : <kbd>AWS(VPC, EC2, ALB, RDS)</kbd> <kbd>Docker</kbd> <kbd>GitLab CI/CD</kbd></li>
   <li>Monitoring : <kbd>OTel Collector</kbd> <kbd>Prometheus</kbd> <kbd>Grafana</kbd> <kbd>Loki</kbd> <kbd>Tempo</kbd></li>
-  <li>Collaboration : <kbd>GitHub</kbd> <kbd>GitLab</kbd> <kbd>Notion</kbd> <kbd>Figma</kbd></li>
+  <li>Collaboration : <kbd>GitHub</kbd> <kbd>GitLab</kbd> <kbd>Notion</kbd> <kbd>Figma</kbd> <kbd>Sourcetree</kbd></li>
 </ul>
 
 <H3>(주)커머스웨어</H3> 
@@ -60,12 +60,10 @@
 <p>개발 환경</p>
 <ul>
   <li>Language : <kbd>Java</kbd></li>
-  <li>BackEnd : <kbd>Spring</kbd> <kbd>MyBatis</kbd></li>
-  <li>frontEnd : <kbd>JavaScript</kbd> <kbd>Net.js</kbd> <kbd>Velocity</kbd></li>
+  <li>BackEnd : <kbd>Spring Boot</kbd> <kbd>Spring Framework</kbd> <kbd>MyBatis</kbd></li>
   <li>Database : <kbd>Oracle</kbd></li>
-  <li>Infra : <kbd>Jenkins</kbd></li>
-  <li>Collaboration : <kbd>GitLab</kbd> <kbd>SVN</kbd>  <kbd>Sourcetree</kbd> <kbd>SVN</kbd> <kbd>Redmine</kbd> <kbd>Slack</kbd></li>
-  <p>※ Net.js는 Ext.js를 기반으로 만든 커머스웨어가 특허낸 사내 프레임워크이다.</p>
+  <li>Infrastructure/CI/CD : <kbd>Jenkins</kbd></li>
+  <li>Collaboration : <kbd>GitLab</kbd> <kbd>Sourcetree</kbd> <kbd>SVN</kbd> <kbd>Redmine</kbd> <kbd>Slack</kbd></li>
 </ul>
 
 <br/>
